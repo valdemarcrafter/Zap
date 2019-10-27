@@ -1,0 +1,1 @@
+[null,{"name":"BanTrigger","temp":"BannedMembers","event-type":"12","actions":[{"channel":"4","varName":"","message":"A member was banned.","storage":"0","varName2":"","name":"Send Message"}]}]
